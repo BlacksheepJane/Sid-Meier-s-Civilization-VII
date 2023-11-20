@@ -1,0 +1,26 @@
+﻿  Activity.cpp
+  Building.cpp
+  Controller.cpp
+F:\文明7\Controller.cpp(22,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+F:\文明7\Controller.cpp(29,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\文明7\Controller.cpp(49,16): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+F:\文明7\Controller.cpp(130,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+F:\文明7\Controller.cpp(132,38): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+F:\文明7\Controller.cpp(204,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\文明7\Controller.cpp(205,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\文明7\Controller.cpp(229,42): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+F:\文明7\Controller.cpp(289,106): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+  Display.cpp
+  Grid.cpp
+  Letterform.cpp
+  main.cpp
+F:\文明7\main.cpp(19,89): warning C4305: “参数”: 从“double”到“float”截断
+F:\文明7\main.cpp(19,84): warning C4305: “参数”: 从“double”到“float”截断
+F:\文明7\main.cpp(20,86): warning C4305: “参数”: 从“double”到“float”截断
+F:\文明7\main.cpp(21,93): warning C4305: “参数”: 从“double”到“float”截断
+  title.cpp
+  正在生成代码...
+F:\文明7\Controller.cpp(114): warning C4715: “Controller::SetProductionActivity”: 不是所有的控件路径都返回值
+F:\文明7\Controller.cpp(255): warning C4715: “Controller::setPopAt”: 不是所有的控件路径都返回值
+F:\文明7\Controller.cpp(328): warning C4172: 返回局部变量或临时变量的地址: adjacents
+  文明7-fltk.vcxproj -> C:\Users\Lenovo\source\repos\文明7-fltk\x64\Debug\文明7-fltk.exe
